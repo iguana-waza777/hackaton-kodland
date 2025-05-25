@@ -22,7 +22,7 @@ El proyecto busca **reducir la contaminación ambiental** ayudando a las persona
 
 ---
 
-##📦 Requisitos
+## 📦 Requisitos
 
 Antes de ejecutar el proyecto, asegurate de tener instalados:
 
@@ -38,9 +38,9 @@ El usuario sube una imagen al canal de Discord.
 El bot descarga la imagen automáticamente.
 El modelo de IA analiza la imagen.
 El bot responde con la categoría del residuo:
-  ✅ Reciclable
-  🍃 Orgánico
-  🚫 No reciclable
+    ✅ Reciclable
+    🍃 Orgánico
+    🚫 No reciclable
 ---
 
 ## 🛠️ Estructura del Proyecto
