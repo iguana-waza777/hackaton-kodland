@@ -1,0 +1,4 @@
+0 Orgánico
+1 Aprovechable
+2 No Aprovechable
+3 Peligroso
